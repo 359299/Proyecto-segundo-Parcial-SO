@@ -1,5 +1,9 @@
-// memory_manager.c
+//EP.Parcial2.Bit_&_Byte----memory_manager.c
+//NOMBRE DEL ALUMNO:
+//Carlos Esteban Barragán Bernal
+//Daniel Emiliano Jimenez Frade
 //Bit & Byte
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
